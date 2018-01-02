@@ -50,6 +50,6 @@ import java.util.List;
     }
     
     void mostraValorestimadoTotal(){
-        System.out.println("Valor total estimado da carteira: "+valorEstimadoTotal);
+        System.out.println("Valor total estimado da carteira:  "+valorEstimadoTotal);
     }
 }
