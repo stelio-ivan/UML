@@ -20,9 +20,7 @@ public class Loja extends Imovel {
         valorEstimado=calcularValorEstimado();
     }
 
-    Loja() {
-    }
-
+   
     
 
     

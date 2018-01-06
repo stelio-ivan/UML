@@ -34,8 +34,7 @@ abstract class Imovel {
         
     }
 
-    public Imovel() {
-    }
+    
 
     
    

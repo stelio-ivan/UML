@@ -24,8 +24,7 @@ public class Moradia extends  Imovel{
         valorEstimado=calcularValorEstimado();
     }
 
-    Moradia() {
-    }
+  
 
    
 

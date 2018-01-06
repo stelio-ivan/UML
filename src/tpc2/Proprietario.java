@@ -15,7 +15,7 @@ import java.util.List;
 public class Proprietario {
     private int id, contacto;
     private String nome, apelido;
-    List <Imovel> imoveisAdquiridos= new ArrayList<>();
+    private List <Imovel> imoveisAdquiridos= new ArrayList<>();
 
     
 

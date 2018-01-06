@@ -29,8 +29,7 @@ public class Apartamento  extends  Imovel{
     }
 
     
-    Apartamento() {
-    }
+   
 
     
     
